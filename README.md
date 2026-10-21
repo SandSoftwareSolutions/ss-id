@@ -10,6 +10,8 @@ Small, dependency-free helpers for generating URL-safe IDs. Works in Node.js 18+
 npm install @sandsoftwaresolutions/id
 ```
 
+Works with `import` and `require()`, and ships TypeScript types for both.
+
 ## Usage
 
 ```js
